@@ -65,7 +65,13 @@
 	</div>
 </section>
 
-	<script>
-		/* ---- particles.js config ---- */
-
-	</script>
+<section class="section has-background-white has-text-centered">
+	<div class="container">
+		<div class="columns">
+			<div class="column">
+				<p><span class="title">Menjadi Partner?</span></p>
+				<p class="subtitle">Hubungi Kami di email rudi@dibumi.com</p>
+			</div>
+		</div>
+	</div>
+</section>
